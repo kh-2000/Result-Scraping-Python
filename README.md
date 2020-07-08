@@ -1,7 +1,8 @@
 # Result Using Python Scraping
 
+
 ## Overview
-Hello Everyone, I know this is a small project but i want to learn about Selenium and Openpyxl libraries so that I made this project.
+It is an amateur project developed by me by collaborating the use of two popular libraries of python, ***Selenium*** and ***openpyxl*** while learning about them
 
 
 ## Algorithm I used
