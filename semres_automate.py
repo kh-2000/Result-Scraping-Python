@@ -15,7 +15,7 @@ def result_in_excel(title_name,website):
     ws['A1'] = 'Roll-No'
     ws['B1'] = 'GPA'
 
-    for i in [9,19,24,49,59]:
+    for i in range(1,20):
         driver = webdriver.Chrome('C:\\Users\\user\\Downloads\\chromedriver')
         # driver.get('https://www.osmania.ac.in/res07/20200270.jsp')
         driver.get(website) # website
