@@ -16,4 +16,5 @@ It is an amateur project developed by me by collaborating the use of two popular
 
 ## Demo Output
 ![output](output_demo.jpg)
+
 ![output2](output_demo2.jpg)
