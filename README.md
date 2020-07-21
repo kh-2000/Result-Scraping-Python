@@ -5,7 +5,7 @@
 It is an amateur project developed by me by collaborating the use of two popular libraries of python, ***Selenium*** and ***openpyxl*** while learning about them
 
 
-## Algorithm I used
+## Algorithm 
 1. I have opened a workbook using ```Openpyxl``` library
 2. I have also imported ```Selenium``` library for automating my results' website using **chromedriver**
 3. I have created a function ```result_in_excel``` which takes two parameters, one is the title_name(name of the excel sheet) and other one, website(it is the link of the website)
@@ -16,5 +16,4 @@ It is an amateur project developed by me by collaborating the use of two popular
 
 ## Demo Output
 ![output](output_demo.jpg)
-
 ![output](output_demo2.jpg)
