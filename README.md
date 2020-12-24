@@ -2,7 +2,7 @@
 
 
 ## Overview
-It is an amateur project developed by me by collaborating the use of two popular libraries of python, ***Selenium*** and ***openpyxl*** while learning about them
+It is an automation script developed by me by collaborating the use of two popular libraries of python, ***Selenium*** and ***openpyxl*** while learning about them
 
 
 ## Algorithm 
